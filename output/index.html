@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manus AI评测 - 中国的第二个"DeepSeek时刻"?</title>
+    <!-- TailwindCSS 通过CDN引入 -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome 图标库 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script>
+        // 配置Tailwind主题
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        primary: {
+                            50: '#f0f9ff',
+                            100: '#e0f2fe',
+                            200: '#bae6fd',
+                            300: '#7dd3fc',
+                            400: '#38bdf8',
+                            500: '#0ea5e9',
+                            600: '#0284c7',
+                            700: '#0369a1',
+                            800: '#075985',
+                            900: '#0c4a6e',
+                        },
+                        dark: {
+                            100: '#1e293b',
+                            200: '#0f172a',
+                            300: '#020617',
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', 'sans-serif'],
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.5s ease-in-out',
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0' },
+                            '100%': { opacity: '1' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        /* 自定义样式 */
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        
+        /* 平滑滚动 */
+        html {
+            scroll-behavior: smooth;
+        }
+        
+        /* 淡入动画 */
+        .fade-in {
+            animation: fadeIn 0.8s ease-in-out;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        /* 图片懒加载占位符 */
+        .lazy-img {
+            transition: opacity 0.3s ease-in-out;
+        }
+        
+        /* 卡片悬停效果 */
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+        
+        .card-hover:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 按钮悬停效果 */
+        .btn-hover {
+            transition: all 0.2s ease;
+        }
+        
+        .btn-hover:hover {
+            transform: scale(1.05);
+        }
+        
+        /* 深色模式样式 */
+        .dark .dark-img {
+            filter: brightness(0.8) contrast(1.2);
+        }
+    </style>
+</head>
+<body class="font-sans bg-gray-50 text-gray-900 dark:bg-dark-200 dark:text-gray-100 transition-colors duration-200">
+    <!-- 主导航栏 -->
+    <header class="sticky top-0 z-50 bg-white dark:bg-dark-100 shadow-sm">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-robot text-primary-600 text-2xl"></i>
+                    <span class="text-xl font-bold">AI科技评测</span>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <button id="theme-toggle" class="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-dark-300 transition-colors">
+                        <i class="fas fa-sun text-yellow-500 dark:hidden"></i>
+                        <i class="fas fa-moon text-blue-300 hidden dark:block"></i>
+                    </button>
+                    <button class="hidden sm:block bg-primary-600 hover:bg-primary-700 text-white px-4 py-2 rounded-md btn-hover">
+                        订阅更新
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- 主要内容区域 -->
+    <main class="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <!-- 视频部分 -->
+        <section class="mb-12 fade-in">
+            <h2 class="text-2xl font-bold mb-6 flex items-center">
+                <i class="fas fa-video text-primary-600 mr-2"></i>
+                视频演示
+            </h2>
+            <div class="w-full aspect-video bg-gray-200 dark:bg-dark-100 rounded-xl overflow-hidden shadow-lg">
+                <iframe class="w-full h-full" src="https://player.bilibili.com/player.html?isOutside=true&bvid=BV1W1QJYvEaf&cid=28822275984&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+            </div>
+        </section>
+
+        <!-- 文章标题和作者信息 -->
+        <section class="mb-10 fade-in" style="animation-delay: 0.1s">
+            <h1 class="text-3xl sm:text-4xl font-bold mb-4">Manus可能不是中国的第二个"DeepSeek时刻"</h1>
+            <div class="flex items-center space-x-4 mb-6">
+                <div class="w-12 h-12 rounded-full overflow-hidden">
+                    <img src="https://techcrunch.com/wp-content/uploads/2022/03/Kyle-Wiggers.jpg" alt="Kyle Wiggers" class="w-full h-full object-cover dark-img lazy-img">
+                </div>
+                <div>
+                    <p class="font-medium">Kyle Wiggers</p>
+                    <p class="text-sm text-gray-600 dark:text-gray-400">企业高级记者</p>
+                </div>
+            </div>
+            <div class="flex flex-wrap gap-2 mb-6">
+                <span class="bg-gray-100 dark:bg-dark-100 px-3 py-1 rounded-full text-sm">
+                    <i class="fas fa-tag text-primary-500 mr-1"></i>AI代理
+                </span>
+                <span class="bg-gray-100 dark:bg-dark-100 px-3 py-1 rounded-full text-sm">
+                    <i class="fas fa-tag text-primary-500 mr-1"></i>人工智能
+                </span>
+                <span class="bg-gray-100 dark:bg-dark-100 px-3 py-1 rounded-full text-sm">
+                    <i class="fas fa-tag text-primary-500 mr-1"></i>应用
+                </span>
+                <span class="bg-gray-100 dark:bg-dark-100 px-3 py-1 rounded-full text-sm">
+                    <i class="fas fa-tag text-primary-500 mr-1"></i>中国
+                </span>
+                <span class="bg-gray-100 dark:bg-dark-100 px-3 py-1 rounded-full text-sm">
+                    <i class="fas fa-tag text-primary-500 mr-1"></i>DeepSeek
+                </span>
+            </div>
+        </section>
+
+        <!-- 文章主体内容 -->
+        <article class="prose prose-lg max-w-none dark:prose-invert mb-12 fade-in" style="animation-delay: 0.2s">
+            <p class="text-xl leading-relaxed mb-6">
+                上周推出预览版的"代理式"AI平台Manus，正在引起比泰勒·斯威夫特演唱会还要激烈的讨论。
+            </p>
+            
+            <p class="mb-4">
+                Hugging Face的产品负责人称Manus是"我尝试过的最令人印象深刻的AI工具"。AI政策研究员Dean Ball将Manus描述为"使用AI的最复杂的计算机"。Manus的官方Discord服务器在短短几天内就增长到超过138,000名成员，reportedly，Manus的邀请码在中国转售应用闲鱼上售价数千美元。
+            </p>
+            
+            <div class="my-8 p-4 border-l-4 border-primary-500 bg-gray-50 dark:bg-dark-100 rounded">
+                <p class="italic">
+                    "excellent" - Jack (@jack) 2025年3月9日
+                </p>
+            </div>
+            
+            <p class="mb-4">
+                但目前尚不清楚这种热度是否名副其实。
+            </p>
+            
+            <p class="mb-4">
+                Manus并非完全从零开发。根据社交媒体上的报道，该平台使用了现有和微调的AI模型组合，包括Anthropic的Claude和阿里巴巴的Qwen，来执行诸如起草研究报告和分析财务文件等任务。
+            </p>
+            
+            <p class="mb-4">
+                然而，在其网站上，Manus背后的中国初创公司Butterfly Effect给出了一些关于该平台据称可以完成的任务的夸张例子，从购买房地产到编程视频游戏。
+            </p>
+            
+            <p class="mb-4">
+                在X上的一段病毒视频中，Manus的研究负责人Yichao "Peak" Ji暗示该平台优于OpenAI的深度研究和Operator等代理工具。Ji声称，Manus在测试AI助手通用能力的流行基准GAIA上优于深度研究，该基准测试AI通过浏览网页、使用软件等方式执行工作的能力。
+            </p>
+            
+            <p class="mb-4">
+                "Manus仅仅是另一个聊天机器人或工作流程，"Ji在视频中说。"它是一个完全自主的代理，弥合了构思和执行之间的差距[…]我们将其视为人机协作的下一个范式。"
+            </p>
+            
+            <p class="mb-4">
+                但一些早期用户表示，Manus并非万能药。
+            </p>
+            
+            <p class="mb-4">
+                AI初创公司Pleias的联合创始人Alexander Doria在X上的一篇帖子中表示，他在测试Manus时遇到了错误消息和无限循环。其他X用户指出，Manus在事实性问题上会犯错误，并且不会始终引用其工作来源——而且经常错过在线轻松找到的信息。
+            </p>
+            
+            <div class="my-8 p-4 border-l-4 border-primary-500 bg-gray-50 dark:bg-dark-100 rounded">
+                <p class="italic">
+                    "深度研究在不到15分钟内完成。不幸的是，Manus AI在50分钟后在第18/20步失败了！😑 它表现得相当好——我一直在观察Manus的输出，看起来很出色。然而，第二次运行相同的提示有点令人沮丧，因为它花费太长时间！" - Derya Unutmaz, MD (@DeryaTR_) 2025年3月8日
+                </p>
+            </div>
+            
+            <p class="mb-4">
+                我自己使用Manus的体验也不是特别积极。
+            </p>
+            
+            <p class="mb-4">
+                我要求该平台处理一个在我看来相当简单的请求：从我配送范围内评分最高的快餐店订购一个炸鸡三明治。大约10分钟后，Manus崩溃了。第二次尝试时，它找到了符合我标准的菜单项，但Manus无法完成订购过程——甚至无法提供结账链接。
+            </p>
+            
+            <figure class="my-8">
+                <img src="https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-09-at-1.02.21PM.png" alt="使用Manus订购炸鸡三明治是一种令人沮丧的体验" class="w-full rounded-lg shadow-md dark-img lazy-img">
+                <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">使用Manus订购炸鸡三明治是一种令人沮丧的体验</figcaption>
+            </figure>
+            
+            <p class="mb-4">
+                当我要求它预订从纽约到日本的航班时，Manus同样表现不佳。给出了我认为没有太多歧义的指示（例如"寻找商务舱航班，优先考虑价格和灵活日期"），Manus能做的最好的事情就是提供几个航空公司网站和像Kayak这样的机票搜索引擎的链接，其中一些链接已经失效。
+            </p>
+            
+            <figure class="my-8">
+                <img src="https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-09-at-1.41.07PM.png" alt="Manus还不能为你预订飞往东京的航班" class="w-full rounded-lg shadow-md dark-img lazy-img">
+                <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">Manus还不能为你预订飞往东京的航班</figcaption>
+            </figure>
+            
+            <p class="mb-4">
+                希望接下来的几个任务可能会有所改善，我告诉Manus在步行距离内为一个人预订餐厅。几分钟后它失败了。然后我要求该平台构建一个受火影忍者启发的格斗游戏。半小时后它出错了，这时我决定放弃。
+            </p>
+            
+            <div class="my-8 p-4 border-l-4 border-primary-500 bg-gray-50 dark:bg-dark-100 rounded">
+                <p class="italic">
+                    "在过去3天尝试Manus AI后的诚实意见，以下是好的和坏的方面。好的方面：- 它在互联网上进行的研究和生成的报告令人难以置信。- 它在后台运行脚本执行任务的能力令人印象深刻。- 它制定的计划..." - AshutoshShrivastava (@ai_for_success) 2025年3月9日
+                </p>
+            </div>
+            
+            <p class="mb-4">
+                Manus的发言人通过DM向TechCrunch发送了以下声明：
+            </p>
+            
+            <p class="mb-4">
+                "作为一个小团队，我们的重点是不断改进Manus并制作真正能帮助用户解决问题的AI代理[…]当前封闭测试版的主要目标是对系统的各个部分进行压力测试并识别问题。我们深深感谢每个人分享的宝贵见解。"
+            </p>
+            
+            <p class="mb-4">
+                那么，如果Manus未能实现其技术承诺，为什么它会爆红？几个因素促成了这一点，例如邀请码稀缺造成的排他性。
+            </p>
+            
+            <p class="mb-4">
+                中国媒体迅速将Manus吹捧为AI突破；QQ新闻称其为"国产产品的骄傲"。同时，社交媒体上的AI网红传播了关于Manus能力的错误信息。一个广泛分享的视频显示了一个桌面程序，表面上是Manus，在多个智能手机应用程序中采取行动。Ji确认该视频实际上并不是Manus的演示。
+            </p>
+            
+            <p class="mb-4">
+                X上其他有影响力的AI账号试图在Manus和中国AI公司DeepSeek之间进行比较——这些比较不一定基于事实。与DeepSeek不同，Butterfly Effect没有内部开发模型。而且，虽然DeepSeek公开了其许多技术，但Butterfly Effect尚未这样做——至少目前还没有。
+            </p>
+            
+            <p class="mb-4">
+                对Butterfly Effect公平地说，Manus处于早期访问阶段。该公司声称正在努力扩大计算能力并修复报告的问题。但就平台目前的状态而言，Manus似乎是一个炒作超前于技术创新的案例。
+            </p>
+            
+            <p class="text-sm text-gray-600 dark:text-gray-400 italic mt-8">
+                更新：太平洋时间下午6:02：添加了Manus发言人的声明，并更正了对Manus背后公司的错误识别。
+            </p>
+        </article>
+
+        <!-- 相关文章部分 -->
+        <section class="mb-12 fade-in" style="animation-delay: 0.3s">
+            <h2 class="text-2xl font-bold mb-6 flex items-center">
+                <i class="fas fa-newspaper text-primary-600 mr-2"></i>
+                相关文章
+            </h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <!-- 相关文章卡片1 -->
+                <div class="bg-white dark:bg-dark-100 rounded-xl shadow-md overflow-hidden card-hover">
+                    <div class="h-48 overflow-hidden">
+                        <img src="https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-teal.jpg" alt="OpenAI logo" class="w-full h-full object-cover dark-img lazy-img">
+                    </div>
+                    <div class="p-4">
+                        <span class="text-xs font-semibold text-primary-600 uppercase tracking-wide">人工智能</span>
+                        <h3 class="mt-1 text-lg font-semibold">OpenAI推出新工具帮助企业构建AI代理</h3>
+                        <p class="mt-2 text-gray-600 dark:text-gray-400 text-sm line-clamp-2">
+                            OpenAI发布了一套新工具，旨在帮助企业更轻松地构建和部署AI代理，进一步扩展其在企业市场的影响力。
+                        </p>
+                        <div class="mt-4 flex items-center">
+                            <span class="text-sm text-gray-500 dark:text-gray-400">53分钟前</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 相关文章卡片2 -->
+                <div class="bg-white dark:bg-dark-100 rounded-xl shadow-md overflow-hidden card-hover">
+                    <div class="h-48 overflow-hidden">
+                        <img src="https://techcrunch.com/wp-content/uploads/2025/03/mark-cuban-sxsw.jpg" alt="Mark Cuban" class="w-full h-full object-cover dark-img lazy-img">
+                    </div>
+                    <div class="p-4">
+                        <span class="text-xs font-semibold text-primary-600 uppercase tracking-wide">创业</span>
+                        <h3 class="mt-1 text-lg font-semibold">Mark Cuban表示AI"永远不是答案"，它是一个"工具"</h3>
+                        <p class="mt-2 text-gray-600 dark:text-gray-400 text-sm line-clamp-2">
+                            在SXSW大会上，亿万富翁投资人Mark Cuban强调了AI作为工具而非解决方案的重要性，呼吁创业者关注实际应用。
+                        </p>
+                        <div class="mt-4 flex items-center">
+                            <span class="text-sm text-gray-500 dark:text-gray-400">58分钟前</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 相关文章卡片3 -->
+                <div class="bg-white dark:bg-dark-100 rounded-xl shadow-md overflow-hidden card-hover">
+                    <div class="h-48 overflow-hidden">
+                        <img src="https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png" alt="Hugging Face logo" class="w-full h-full object-cover dark-img lazy-img">
+                    </div>
+                    <div class="p-4">
+                        <span class="text-xs font-semibold text-primary-600 uppercase tracking-wide">人工智能</span>
+                        <h3 class="mt-1 text-lg font-semibold">Hugging Face扩展其LeRobot平台，提供自动驾驶机器的训练数据</h3>
+                        <p class="mt-2 text-gray-600 dark:text-gray-400 text-sm line-clamp-2">
+                            AI开源平台Hugging Face宣布扩展其LeRobot平台，为自动驾驶机器提供更全面的训练数据，推动机器人技术发展。
+                        </p>
+                        <div class="mt-4 flex items-center">
+                            <span class="text-sm text-gray-500 dark:text-gray-400">1小时前</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 订阅部分 -->
+        <section class="bg-primary-50 dark:bg-dark-100 rounded-2xl p-8 mb-12 fade-in" style="animation-delay: 0.4s">
+            <div class="flex flex-col md:flex-row items-center justify-between">
+                <div class="mb-6 md:mb-0 md:mr-8">
+                    <h2 class="text-2xl font-bold mb-2">订阅我们的AI科技周报</h2>
+                    <p class="text-gray-600 dark:text-gray-400">每周获取最新AI技术进展、产品评测和行业动态</p>
+                </div>
+                <div class="w-full md:w-auto">
+                    <div class="flex flex-col sm:flex-row gap-3">
+                        <input type="email" placeholder="输入您的邮箱" class="px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-700 dark:bg-dark-200 focus:outline-none focus:ring-2 focus:ring-primary-500 w-full sm:w-64">
+                        <button class="bg-primary-600 hover:bg-primary-700 text-white px-6 py-3 rounded-lg font-medium btn-hover">
+                            订阅
+                        </button>
+                    </div>
+                    <p class="text-xs text-gray-500 dark:text-gray-400 mt-2">
+                        我们尊重您的隐私，绝不会分享您的邮箱信息
+                    </p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="bg-white dark:bg-dark-100 border-t border-gray-200 dark:border-gray-800">
+        <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div class="flex flex-col md:flex-row justify-between items-center">
+                <div class="mb-6 md:mb-0">
+                    <div class="flex items-center space-x-2 mb-4">
+                        <i class="fas fa-robot text-primary-600 text-2xl"></i>
+                        <span class="text-xl font-bold">AI科技评测</span>
+                    </div>
+                    <p class="text-gray-600 dark:text-gray-400 max-w-md">
+                        专注于提供最新、最全面的AI技术评测和行业分析，帮助读者了解人工智能的最新发展。
+                    </p>
+                </div>
+                <div class="flex flex-col items-end">
+                    <div class="flex space-x-4 mb-4">
+                        <a href="https://x.com/@aiwarts" target="_blank" rel="noopener noreferrer" class="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-500 transition-colors">
+                            <i class="fab fa-twitter text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-500 transition-colors">
+                            <i class="fab fa-linkedin text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-500 transition-colors">
+                            <i class="fab fa-github text-xl"></i>
+                        </a>
+                    </div>
+                    <div class="text-gray-600 dark:text-gray-400 text-sm">
+                        <p>作者：卡尔</p>
+                        <p>&copy; 2025 AI科技评测. 保留所有权利.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- 返回顶部按钮 -->
+    <button id="back-to-top" class="fixed bottom-6 right-6 bg-primary-600 text-white p-3 rounded-full shadow-lg opacity-0 invisible transition-all duration-300 btn-hover">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <!-- JavaScript -->
+    <script>
+        // 深色模式切换
+        const themeToggle = document.getElementById('theme-toggle');
+        
+        // 检查系统偏好
+        if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            document.documentElement.classList.add('dark');
+        }
+        
+        // 切换主题
+        themeToggle.addEventListener('click', () => {
+            document.documentElement.classList.toggle('dark');
+        });
+        
+        // 返回顶部按钮
+        const backToTopButton = document.getElementById('back-to-top');
+        
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 300) {
+                backToTopButton.classList.remove('opacity-0', 'invisible');
+                backToTopButton.classList.add('opacity-100', 'visible');
+            } else {
+                backToTopButton.classList.remove('opacity-100', 'visible');
+                backToTopButton.classList.add('opacity-0', 'invisible');
+            }
+        });
+        
+        backToTopButton.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+        
+        // 图片懒加载
+        document.addEventListener('DOMContentLoaded', () => {
+            const lazyImages = document.querySelectorAll('.lazy-img');
+            
+            if ('IntersectionObserver' in window) {
+                const imageObserver = new IntersectionObserver((entries, observer) => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            const img = entry.target;
+                            img.style.opacity = '1';
+                            imageObserver.unobserve(img);
+                        }
+                    });
+                });
+                
+                lazyImages.forEach(img => {
+                    img.style.opacity = '0';
+                    img.style.transition = 'opacity 0.3s ease-in-out';
+                    imageObserver.observe(img);
+                });
+            } else {
+                // 回退方案，对于不支持IntersectionObserver的浏览器
+                lazyImages.forEach(img => {
+                    img.style.opacity = '1';
+                });
+            }
+        });
+        
+        // 内容区块淡入动画
+        document.addEventListener('DOMContentLoaded', () => {
+            const fadeElements = document.querySelectorAll('.fade-in');
+            
+            if ('IntersectionObserver' in window) {
+                const fadeObserver = new IntersectionObserver((entries, observer) => {
+                    entries.forEach(entry => {
+                        if (entry.isIntersecting) {
+                            entry.target.classList.add('animate-fade-in');
+                            fadeObserver.unobserve(entry.target);
+                        }
+                    });
+                }, {
+                    threshold: 0.1
+                });
+                
+                fadeElements.forEach(element => {
+                    fadeObserver.observe(element);
+                });
+            } else {
+                // 回退方案
+                fadeElements.forEach(element => {
+                    element.classList.add('animate-fade-in');
+                });
+            }
+        });
+        
+        // 平滑滚动所有锚点链接
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                
+                const targetId = this.getAttribute('href');
+                if (targetId === '#') return;
+                
+                const targetElement = document.querySelector(targetId);
+                if (targetElement) {
+                    targetElement.scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

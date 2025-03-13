@@ -1,0 +1,1028 @@
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&bvid=BV1W1QJYvEaf&cid=28822275984&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+# China’s Autonomous Agent, Manus, Changes Everything
+
+InnovationAIChina’s Autonomous Agent, Manus, Changes EverythingByCraig S. Smith, Contributor. Forbes contributors publish independent expert analyses and insights. Craig S. Smith, Eye on AI host and former NYT writer, covers AI.Follow AuthorMar 08, 2025, 03:29pm ESTShareSaveCommentYichao 'Peak' Ji, co-founder and chief scientist of Manus AIManus AI
+One recent evening in Shenzhen, a group of software engineers gathered in a dimly lit co-working space, furiously typing as they monitored the performance of a new AI system. The air was electric, thick with the hum of servers and the glow of high-resolution monitors. They were testing Manus, a revolutionary AI agent capable of independent thought and action. Within hours, its March 6 launch would send shockwaves through the global AI community, reigniting a debate that had simmered for decades: What happens when artificial intelligence stops asking for permission and starts making its own decisions?
+
+
+Manus is not just another chatbot, nor is it merely an improved search engine dressed in futuristic branding. It is the world’s first fully autonomous AI agent, a system that doesn’t just assist humans — it replaces them. From analyzing financial transactions to screening job candidates, Manus navigates the digital world without oversight, making decisions with a speed and precision that even the most seasoned professionals struggle to match. In essence, it is a digital polymath trained to manage tasks across industries without the inefficiencies of human hesitation.
+
+But how did China, often perceived as trailing the U.S. in foundational AI research, produce something that Silicon Valley had only theorized about? And more importantly, what does it mean for the balance of power in artificial intelligence?
+
+
+The Second DeepSeek Moment
+In late 2024, the release of DeepSeek V3, a Chinese AI model designed to rival OpenAI’s GPT-4, stunned those paying attention. But it was the January release of its R1 reasoning model, which bested OpenAI’s reasoning models GPT-o1 and GPT-o3, that was described as China’s “Sputnik moment” for AI. It was the first tangible sign that the country’s researchers were closing the gap in large language model capabilities.
+
+But Manus represents something entirely different — it is not just another model. It is an autonomous agent, an AI system that thinks, plans and executes tasks independently, capable of navigating the real world as seamlessly as a human intern with an unlimited attention span.
+MORE FOR YOUGoogle’s Android Decision—Bad News For All Samsung, Pixel UsersNYT Mini Today: Hints, Clues And Answers For Wednesday, March 12Social Security Overpayments: 100% Withholding May Leave Seniors Broke
+
+Manus is unique in its ability to deliver end-to-end results across diverse domains without human prompts. While most other AI systems still require some level of human input or operate within narrower scopes, Manus acts independently, offering a seamless, self-directed experience.
+
+Autonomous agents already exist in narrow domains - think trading bots - but Manus’ multi-agent architecture enhances its ability to manage complex workflows by deploying specialized sub-agents for various tasks—a feature not yet standard in most autonomous AI systems. Moreover, unlike other agents that focus on niche industries such as trading or logistics, Manus demonstrates true general-purpose versatility, effortlessly generating research papers, designing marketing campaigns, or even building entire websites from scratch.
+
+
+Manus uses a multi-agent architecture where a central “executor” agent coordinates with specialized sub-agents—such as planners and knowledge agents—to break down and complete complex tasks. It’s not a model, but an assemblage of models currently built on top of Anthropic’s Claude 3.5 Sonnet model and refined versions of Alibaba’s Qwen models. It integrates with 29 tools and open-source software, enabling it to browse the web, interact with APIs, run scripts, and even develop software independently. Of course agents like OpenAI’s Operator can take actions, but they work through the user’s browser. Manus works in a virtual compute environment in the cloud, so users can shut down their computer after giving it a goal while it continues working in the background, notifying them upon completion.
+This is what sets Manus apart from its Western counterparts. While ChatGPT-4 and Google’s Gemini rely on human prompts to guide them, Manus doesn’t wait for instructions. Instead, it is designed to initiate tasks on its own, assess new information and dynamically adjust its approach. It is, in many ways, the first true general AI agent.
+For instance, given a zip file of resumes, Manus doesn’t just rank candidates; it reads through each one, extracts relevant skills, cross-references them with job market trends and presents a fully optimized hiring decision — complete with an Excel sheet it generated on its own. When given a vague command like “find me an apartment in San Francisco,” it goes beyond listing search results — it considers crime statistics, rental trends, even weather patterns and delivers a shortlist of properties tailored to the user’s unstated preferences.
+Manus is currently available to testers by invitation only. Some early users have reported issues suggesting that the product needs some refinement. But Manus will undoubtedly improve the system before general availabiltiy.
+The Invisible Worker
+To understand Manus, imagine an invisible assistant who can use a computer just like you do — opening browser tabs, filling out forms, writing emails, coding software and making real-time decisions. Except unlike you, it never gets tired.
+The key to its power lies in its multi-agent architecture. Rather than relying on a single neural network, Manus operates like an executive overseeing a team of specialized sub-agents. When assigned a complex task, it divides the problem into manageable components, assigns them to the appropriate agents and monitors their progress. This structure enables it to tackle multi-step workflows that previously required multiple AI tools stitched together manually.
+Its cloud-based asynchronous operation is another game-changer. Traditional AI assistants need a user’s active engagement — Manus does not. It runs its tasks in the background, pinging users only when results are ready, much like a hyper-efficient employee who never requires micromanagement.
+The Rise of the Self-Directed AI
+At first, the implications seem thrilling. The automation of repetitive work has long been heralded as a net positive. But Manus signals something new — a transition from AI as an assistant to AI as an independent actor.
+Consider Rowan Cheung, a tech writer who tested Manus by asking it to write a biography of himself and build a personal website. Within minutes, the agent had scraped social media, extracted professional highlights, generated a neatly formatted biography, coded a functional website and deployed it online. It even troubleshot hosting issues — without ever asking for additional input.
+For AI developers, this is the Holy Grail — a system that doesn’t just generate information, but applies it, fixes its mistakes and refines its output. For professionals who rely on tasks Manus can perform, it is an existential threat.
+A Shock to Silicon Valley’s System
+For years, the dominant AI narrative has centered around large U.S. tech firms — OpenAI, Google, Meta — developing more powerful versions of their language models. The assumption was that whoever built the most sophisticated chatbot would control the future of AI. Manus disrupts that assumption.
+It is not just an improvement on existing AI — it is a new category of intelligence, shifting the focus from passive assistance to self-directed action. And it is entirely Chinese-built.
+This has triggered a wave of unease in Silicon Valley, where AI leaders have quietly acknowledged that China’s aggressive push into autonomous systems could give it a first-mover advantage in critical sectors. The fear is that Manus represents the industrialization of intelligence — a system so efficient that companies will soon find themselves forced to replace human labor with AI not out of preference, but necessity.
+The Road Ahead: Regulation, Ethics and the Autonomy Dilemma
+Yet Manus also raises profound ethical and regulatory questions. What happens when an AI agent makes a financial decision that costs a company millions? Or when it executes a command incorrectly, leading to real-world consequences? Who is responsible when an autonomous system, trained to act without oversight, makes the wrong call?
+Chinese regulators, historically more willing to experiment with AI deployment, have yet to outline clear guardrails for AI autonomy. Meanwhile, Western regulators face an even greater challenge: their framework assumes AI requires human supervision. Manus breaks that assumption.
+For now, the biggest question isn’t whether Manus is real — the evidence is overwhelming. The question is how quickly the rest of the world will catch up. The era of autonomous AI agents has begun, and China is leading the charge. The rest of us may need to rethink what it means to work, create and compete in a world where intelligence is no longer a uniquely human asset.
+Follow me on Twitter. Check out my website or some of my other work.Editorial StandardsForbes Accolades
+
+InnovationAIChina’s Autonomous Agent, Manus, Changes EverythingByCraig S. Smith, Contributor. Forbes contributors publish independent expert analyses and insights. Craig S. Smith, Eye on AI host and former NYT writer, covers AI.Follow AuthorMar 08, 2025, 03:29pm ESTShareSaveCommentYichao 'Peak' Ji, co-founder and chief scientist of Manus AIManus AI
+One recent evening in Shenzhen, a group of software engineers gathered in a dimly lit co-working space, furiously typing as they monitored the performance of a new AI system. The air was electric, thick with the hum of servers and the glow of high-resolution monitors. They were testing Manus, a revolutionary AI agent capable of independent thought and action. Within hours, its March 6 launch would send shockwaves through the global AI community, reigniting a debate that had simmered for decades: What happens when artificial intelligence stops asking for permission and starts making its own decisions?
+
+
+Manus is not just another chatbot, nor is it merely an improved search engine dressed in futuristic branding. It is the world’s first fully autonomous AI agent, a system that doesn’t just assist humans — it replaces them. From analyzing financial transactions to screening job candidates, Manus navigates the digital world without oversight, making decisions with a speed and precision that even the most seasoned professionals struggle to match. In essence, it is a digital polymath trained to manage tasks across industries without the inefficiencies of human hesitation.
+
+But how did China, often perceived as trailing the U.S. in foundational AI research, produce something that Silicon Valley had only theorized about? And more importantly, what does it mean for the balance of power in artificial intelligence?
+
+
+The Second DeepSeek Moment
+In late 2024, the release of DeepSeek V3, a Chinese AI model designed to rival OpenAI’s GPT-4, stunned those paying attention. But it was the January release of its R1 reasoning model, which bested OpenAI’s reasoning models GPT-o1 and GPT-o3, that was described as China’s “Sputnik moment” for AI. It was the first tangible sign that the country’s researchers were closing the gap in large language model capabilities.
+
+But Manus represents something entirely different — it is not just another model. It is an autonomous agent, an AI system that thinks, plans and executes tasks independently, capable of navigating the real world as seamlessly as a human intern with an unlimited attention span.
+MORE FOR YOUGoogle’s Android Decision—Bad News For All Samsung, Pixel UsersNYT Mini Today: Hints, Clues And Answers For Wednesday, March 12Social Security Overpayments: 100% Withholding May Leave Seniors Broke
+
+Manus is unique in its ability to deliver end-to-end results across diverse domains without human prompts. While most other AI systems still require some level of human input or operate within narrower scopes, Manus acts independently, offering a seamless, self-directed experience.
+
+Autonomous agents already exist in narrow domains - think trading bots - but Manus’ multi-agent architecture enhances its ability to manage complex workflows by deploying specialized sub-agents for various tasks—a feature not yet standard in most autonomous AI systems. Moreover, unlike other agents that focus on niche industries such as trading or logistics, Manus demonstrates true general-purpose versatility, effortlessly generating research papers, designing marketing campaigns, or even building entire websites from scratch.
+
+
+Manus uses a multi-agent architecture where a central “executor” agent coordinates with specialized sub-agents—such as planners and knowledge agents—to break down and complete complex tasks. It’s not a model, but an assemblage of models currently built on top of Anthropic’s Claude 3.5 Sonnet model and refined versions of Alibaba’s Qwen models. It integrates with 29 tools and open-source software, enabling it to browse the web, interact with APIs, run scripts, and even develop software independently. Of course agents like OpenAI’s Operator can take actions, but they work through the user’s browser. Manus works in a virtual compute environment in the cloud, so users can shut down their computer after giving it a goal while it continues working in the background, notifying them upon completion.
+This is what sets Manus apart from its Western counterparts. While ChatGPT-4 and Google’s Gemini rely on human prompts to guide them, Manus doesn’t wait for instructions. Instead, it is designed to initiate tasks on its own, assess new information and dynamically adjust its approach. It is, in many ways, the first true general AI agent.
+For instance, given a zip file of resumes, Manus doesn’t just rank candidates; it reads through each one, extracts relevant skills, cross-references them with job market trends and presents a fully optimized hiring decision — complete with an Excel sheet it generated on its own. When given a vague command like “find me an apartment in San Francisco,” it goes beyond listing search results — it considers crime statistics, rental trends, even weather patterns and delivers a shortlist of properties tailored to the user’s unstated preferences.
+Manus is currently available to testers by invitation only. Some early users have reported issues suggesting that the product needs some refinement. But Manus will undoubtedly improve the system before general availabiltiy.
+The Invisible Worker
+To understand Manus, imagine an invisible assistant who can use a computer just like you do — opening browser tabs, filling out forms, writing emails, coding software and making real-time decisions. Except unlike you, it never gets tired.
+The key to its power lies in its multi-agent architecture. Rather than relying on a single neural network, Manus operates like an executive overseeing a team of specialized sub-agents. When assigned a complex task, it divides the problem into manageable components, assigns them to the appropriate agents and monitors their progress. This structure enables it to tackle multi-step workflows that previously required multiple AI tools stitched together manually.
+Its cloud-based asynchronous operation is another game-changer. Traditional AI assistants need a user’s active engagement — Manus does not. It runs its tasks in the background, pinging users only when results are ready, much like a hyper-efficient employee who never requires micromanagement.
+The Rise of the Self-Directed AI
+At first, the implications seem thrilling. The automation of repetitive work has long been heralded as a net positive. But Manus signals something new — a transition from AI as an assistant to AI as an independent actor.
+Consider Rowan Cheung, a tech writer who tested Manus by asking it to write a biography of himself and build a personal website. Within minutes, the agent had scraped social media, extracted professional highlights, generated a neatly formatted biography, coded a functional website and deployed it online. It even troubleshot hosting issues — without ever asking for additional input.
+For AI developers, this is the Holy Grail — a system that doesn’t just generate information, but applies it, fixes its mistakes and refines its output. For professionals who rely on tasks Manus can perform, it is an existential threat.
+A Shock to Silicon Valley’s System
+For years, the dominant AI narrative has centered around large U.S. tech firms — OpenAI, Google, Meta — developing more powerful versions of their language models. The assumption was that whoever built the most sophisticated chatbot would control the future of AI. Manus disrupts that assumption.
+It is not just an improvement on existing AI — it is a new category of intelligence, shifting the focus from passive assistance to self-directed action. And it is entirely Chinese-built.
+This has triggered a wave of unease in Silicon Valley, where AI leaders have quietly acknowledged that China’s aggressive push into autonomous systems could give it a first-mover advantage in critical sectors. The fear is that Manus represents the industrialization of intelligence — a system so efficient that companies will soon find themselves forced to replace human labor with AI not out of preference, but necessity.
+The Road Ahead: Regulation, Ethics and the Autonomy Dilemma
+Yet Manus also raises profound ethical and regulatory questions. What happens when an AI agent makes a financial decision that costs a company millions? Or when it executes a command incorrectly, leading to real-world consequences? Who is responsible when an autonomous system, trained to act without oversight, makes the wrong call?
+Chinese regulators, historically more willing to experiment with AI deployment, have yet to outline clear guardrails for AI autonomy. Meanwhile, Western regulators face an even greater challenge: their framework assumes AI requires human supervision. Manus breaks that assumption.
+For now, the biggest question isn’t whether Manus is real — the evidence is overwhelming. The question is how quickly the rest of the world will catch up. The era of autonomous AI agents has begun, and China is leading the charge. The rest of us may need to rethink what it means to work, create and compete in a world where intelligence is no longer a uniquely human asset.
+Follow me on Twitter. Check out my website or some of my other work.Editorial StandardsForbes Accolades
+
+
+
+# Manus probably isn't China's second 'DeepSeek moment' | TechCrunch
+
+
+
+
+
+Manus, an “agentic” AI platform that launched in preview last week, is generating more hype than a Taylor Swift concert.
+The head of product at Hugging Face called Manus “the most impressive AI tool I’ve ever tried.” AI policy researcher Dean Ball described Manus as the “most sophisticated computer using AI.” The official Discord server for Manus grew to over 138,000 members in just a few days, and invite codes for Manus are reportedly selling for thousands of dollars on Chinese reseller app Xianyu.
+
+
+
+
+
+
+
+
+But it’s not clear the hype is justified.
+
+excellent https://t.co/TfeV9QZ1d0
+— jack (@jack) March 9, 2025
+
+
+Manus wasn’t developed entirely from scratch. According to reports on social media, the platform uses a combination of existing and fine-tuned AI models, including Anthropic’s Claude and Alibaba’s Qwen, to perform tasks such as drafting research reports and analyzing financial filings.
+Yet on its website, Butterfly Effect — the Chinese startup behind Manus — gives a few wild examples of what the platform supposedly can accomplish, from buying real estate to programming video games.
+In a viral video on X, Yichao “Peak” Ji, a research lead for Manus, implied that the platform was superior to agentic tools such as OpenAI’s deep research and Operator. Manus outperforms deep research on a popular benchmark for general AI assistants called GAIA, Ji claimed, which probes an AI’s ability to carry out work by browsing the web, using software, and more.
+
+
+“[Manus] isn’t just another chatbot or workflow,” Ji said in the video. “It’s a completely autonomous agent that bridges the gap between conception and execution […] We see it as the next paradigm of human-machine collaboration.”
+But some early users say that Manus is no panacea.
+Alexander Doria, the co-founder of AI startup Pleias, said in a post on X that he encountered error messages and endless loops while testing Manus. Other X users pointed out that Manus makes mistakes on factual questions and doesn’t consistently cite its work — and often misses information that’s easily found online.
+
+Deep Research finished in under 15 minutes. Unfortunately, Manus AI failed after 50 minutes at step 18/20! 😑 It was performing quite well-I was watching Manus’ output & it seemed excellent. However, running the same prompt a second time is a bit frustrating as it takes too long! https://t.co/bGtmOI65CP
+— Derya Unutmaz, MD (@DeryaTR_) March 8, 2025
+
+ 
+
+
+
+
+
+
+
+
+My own experience with Manus hasn’t been incredibly positive.
+I asked the platform to handle what seemed to me like a pretty straightforward request: order a fried chicken sandwich from a top-rated fast food joint in my delivery range. After about 10 minutes, Manus crashed. On the second attempt, it found a menu item that met my criteria, but Manus couldn’t complete the ordering process — or provide a checkout link, even.
+Trying to order fried chicken sandwiches with Manus is a frustrating experience.Image Credits:Manus
+Manus similarly whiffed when I asked it to book a flight from NYC to Japan. Given instructions that I thought didn’t leave much room for ambiguity (e.g. “look for a business-class flight, prioritizing price and flexible dates”), the best Manus could do was serve up links to fares across several airline websites and airfare search engines like Kayak, some of which were broken.
+Manus can’t book flights to Tokyo for you just yet.Image Credits:Manus
+Hoping the next few tasks might be the charm, I told Manus to reserve a table for one at a restaurant within walking distance. It failed after a few minutes. Then I asked the platform to build a Naruto-inspired fighting game. It errored out half an hour in, which is when I decided to throw in the towel.
+
+Honest opinion after trying Manus AI for the last 3 days, here’s the good and the bad. 
+Good: – The research it does on the internet and the reports it generates are incredible. – Its ability to run scripts behind the scenes to execute tasks is impressive. – The plans it…
+— AshutoshShrivastava (@ai_for_success) March 9, 2025
+
+ 
+A spokesperson for Manus sent TechCrunch the following statement via DM: 
+“As a small team, our focus is to keep improving Manus and make AI agents that actually help users solve problems […] The primary goal of the current closed beta is to stress-test various parts of the system and identify issues. We deeply appreciate the valuable insights shared by everyone.”
+So if Manus is falling short of its technical promises, why did it blow up? A few factors contributed, such as the exclusivity created by a scarcity of invites.
+
+
+
+
+
+
+
+
+Chinese media was quick to tout Manus as an AI breakthrough; publication QQ News called it “the pride of domestic products.” Meanwhile, AI influencers on social media spread misinformation about Manus’ capabilities. A widely shared video showed a desktop program, ostensibly Manus, taking action across multiple smartphone apps. Ji confirmed that the video wasn’t, in fact, a demo of Manus.
+Other influential AI accounts on X sought to draw comparisons between Manus and Chinese AI company DeepSeek — comparisons not necessarily rooted in fact. Butterfly Effect didn’t develop models in-house, unlike DeepSeek. And while DeepSeek made many of its technologies openly available, Butterfly Effect hasn’t — at least not yet.
+To be fair to Butterfly Effect, Manus is in early access. The company claims it’s working to scale computing capacity and fix issues as they’re reported. But as the platform currently exists, Manus appears to be a case of hype running ahead of technological innovation.
+Updated 6:02 p.m. Pacific: Added a statement from a Manus spokesperson and corrected a misidentification of the company behind Manus.
+
+
+Topics
+
+agent, AI, Apps, China, deepseek, manus 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+			Kyle Wiggers	
+
+
+
+Senior Reporter, Enterprise
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Kyle Wiggers is a senior reporter at TechCrunch with a special interest in artificial intelligence. His writing has appeared in VentureBeat and Digital Trends, as well as a range of gadget blogs including Android Police, Android Authority, Droid-Life, and XDA-Developers. He lives in Brooklyn with his partner, a piano educator, and dabbles in piano himself. occasionally — if mostly unsuccessfully.	
+
+
+View Bio 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Most Popular
+
+
+
+
+
+
+
+
+
+
+
+ Travis Kalanick thinks Uber screwed up: “Wish we had an autonomous ride-sharing product”
+
+
+
+Connie Loizos
+
+
+
+
+
+
+
+
+
+
+ Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’
+
+
+
+Charles Rollet
+
+
+
+
+
+
+
+
+
+
+ FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money
+
+
+
+Tim De Chant
+
+
+
+
+
+
+
+
+
+
+ North Korean government hackers snuck spyware on Android app store
+
+
+
+Lorenzo Franceschi-Bicchierai
+
+
+
+
+
+
+
+
+
+
+ Apple fixes new security flaw used in ‘extremely sophisticated attack’
+
+
+
+Lorenzo Franceschi-Bicchierai
+
+
+
+
+
+
+
+
+
+
+ DOGE axes CISA ‘red team’ staffers amid ongoing federal cuts
+
+
+
+Carly Page
+
+
+
+
+
+
+
+
+
+
+ OpenAI launches new tools to help businesses build AI agents
+
+
+
+Maxwell Zeff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Newsletters
+
+See More
+
+
+Subscribe for the industry’s biggest tech news
+
+
+
+
+
+
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+
+
+
+
+
+TechCrunch AI
+TechCrunch's AI experts cover the latest news in the fast-moving field.
+
+
+
+
+
+TechCrunch Space
+Every Monday, gets you up to speed on the latest advances in aerospace.
+
+
+
+
+
+Startups Weekly
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+
+
+
+
+
+
+					No newsletters selected.
+				
+
+
+
+
+
+
+Subscribe
+
+By submitting your email, you agree to our Terms and Privacy Notice.
+
+
+
+
+
+
+
+
+
+Related
+
+
+
+
+Latest in Apps
+
+See More
+
+
+
+
+
+
+
+
+ 
+
+
+Apps
+
+
+Xiaomi to preinstall PhonePe’s app store on smartphones sold in India
+
+
+
+Ivan Mehta
+
+
+	29 minutes ago
+
+
+
+
+
+
+
+
+ 
+
+
+Apps
+
+
+Snap introduces AI Video Lenses powered by its in-house generative model
+
+
+
+Aisha Malik
+
+
+	17 hours ago
+
+
+
+
+
+
+
+
+ 
+
+
+Apps
+
+
+Spotify says its payouts are getting better, but artists still disagree
+
+
+
+Aisha Malik
+
+
+	1 day ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manus, an “agentic” AI platform that launched in preview last week, is generating more hype than a Taylor Swift concert.
+The head of product at Hugging Face called Manus “the most impressive AI tool I’ve ever tried.” AI policy researcher Dean Ball described Manus as the “most sophisticated computer using AI.” The official Discord server for Manus grew to over 138,000 members in just a few days, and invite codes for Manus are reportedly selling for thousands of dollars on Chinese reseller app Xianyu.
+
+
+
+
+
+
+
+
+But it’s not clear the hype is justified.
+
+excellent https://t.co/TfeV9QZ1d0
+— jack (@jack) March 9, 2025
+
+
+Manus wasn’t developed entirely from scratch. According to reports on social media, the platform uses a combination of existing and fine-tuned AI models, including Anthropic’s Claude and Alibaba’s Qwen, to perform tasks such as drafting research reports and analyzing financial filings.
+Yet on its website, Butterfly Effect — the Chinese startup behind Manus — gives a few wild examples of what the platform supposedly can accomplish, from buying real estate to programming video games.
+In a viral video on X, Yichao “Peak” Ji, a research lead for Manus, implied that the platform was superior to agentic tools such as OpenAI’s deep research and Operator. Manus outperforms deep research on a popular benchmark for general AI assistants called GAIA, Ji claimed, which probes an AI’s ability to carry out work by browsing the web, using software, and more.
+
+
+“[Manus] isn’t just another chatbot or workflow,” Ji said in the video. “It’s a completely autonomous agent that bridges the gap between conception and execution […] We see it as the next paradigm of human-machine collaboration.”
+But some early users say that Manus is no panacea.
+Alexander Doria, the co-founder of AI startup Pleias, said in a post on X that he encountered error messages and endless loops while testing Manus. Other X users pointed out that Manus makes mistakes on factual questions and doesn’t consistently cite its work — and often misses information that’s easily found online.
+
+Deep Research finished in under 15 minutes. Unfortunately, Manus AI failed after 50 minutes at step 18/20! 😑 It was performing quite well-I was watching Manus’ output & it seemed excellent. However, running the same prompt a second time is a bit frustrating as it takes too long! https://t.co/bGtmOI65CP
+— Derya Unutmaz, MD (@DeryaTR_) March 8, 2025
+
+ 
+
+
+
+
+
+
+
+
+My own experience with Manus hasn’t been incredibly positive.
+I asked the platform to handle what seemed to me like a pretty straightforward request: order a fried chicken sandwich from a top-rated fast food joint in my delivery range. After about 10 minutes, Manus crashed. On the second attempt, it found a menu item that met my criteria, but Manus couldn’t complete the ordering process — or provide a checkout link, even.
+Trying to order fried chicken sandwiches with Manus is a frustrating experience.Image Credits:Manus
+Manus similarly whiffed when I asked it to book a flight from NYC to Japan. Given instructions that I thought didn’t leave much room for ambiguity (e.g. “look for a business-class flight, prioritizing price and flexible dates”), the best Manus could do was serve up links to fares across several airline websites and airfare search engines like Kayak, some of which were broken.
+Manus can’t book flights to Tokyo for you just yet.Image Credits:Manus
+Hoping the next few tasks might be the charm, I told Manus to reserve a table for one at a restaurant within walking distance. It failed after a few minutes. Then I asked the platform to build a Naruto-inspired fighting game. It errored out half an hour in, which is when I decided to throw in the towel.
+
+Honest opinion after trying Manus AI for the last 3 days, here’s the good and the bad. 
+Good: – The research it does on the internet and the reports it generates are incredible. – Its ability to run scripts behind the scenes to execute tasks is impressive. – The plans it…
+— AshutoshShrivastava (@ai_for_success) March 9, 2025
+
+ 
+A spokesperson for Manus sent TechCrunch the following statement via DM: 
+“As a small team, our focus is to keep improving Manus and make AI agents that actually help users solve problems […] The primary goal of the current closed beta is to stress-test various parts of the system and identify issues. We deeply appreciate the valuable insights shared by everyone.”
+So if Manus is falling short of its technical promises, why did it blow up? A few factors contributed, such as the exclusivity created by a scarcity of invites.
+
+
+
+
+
+
+
+
+Chinese media was quick to tout Manus as an AI breakthrough; publication QQ News called it “the pride of domestic products.” Meanwhile, AI influencers on social media spread misinformation about Manus’ capabilities. A widely shared video showed a desktop program, ostensibly Manus, taking action across multiple smartphone apps. Ji confirmed that the video wasn’t, in fact, a demo of Manus.
+Other influential AI accounts on X sought to draw comparisons between Manus and Chinese AI company DeepSeek — comparisons not necessarily rooted in fact. Butterfly Effect didn’t develop models in-house, unlike DeepSeek. And while DeepSeek made many of its technologies openly available, Butterfly Effect hasn’t — at least not yet.
+To be fair to Butterfly Effect, Manus is in early access. The company claims it’s working to scale computing capacity and fix issues as they’re reported. But as the platform currently exists, Manus appears to be a case of hype running ahead of technological innovation.
+Updated 6:02 p.m. Pacific: Added a statement from a Manus spokesperson and corrected a misidentification of the company behind Manus.
+
+
+Topics
+
+agent, AI, Apps, China, deepseek, manus 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+			Kyle Wiggers	
+
+
+
+Senior Reporter, Enterprise
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Kyle Wiggers is a senior reporter at TechCrunch with a special interest in artificial intelligence. His writing has appeared in VentureBeat and Digital Trends, as well as a range of gadget blogs including Android Police, Android Authority, Droid-Life, and XDA-Developers. He lives in Brooklyn with his partner, a piano educator, and dabbles in piano himself. occasionally — if mostly unsuccessfully.	
+
+
+View Bio 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Most Popular
+
+
+
+
+
+
+
+
+
+
+
+ Travis Kalanick thinks Uber screwed up: “Wish we had an autonomous ride-sharing product”
+
+
+
+Connie Loizos
+
+
+
+
+
+
+
+
+
+
+ Anthropic CEO says spies are after $100M AI secrets in a ‘few lines of code’
+
+
+
+Charles Rollet
+
+
+
+
+
+
+
+
+
+
+ FBI, EPA, and Treasury told Citibank to freeze funds as Trump administration tries to claw back climate money
+
+
+
+Tim De Chant
+
+
+
+
+
+
+
+
+
+
+ North Korean government hackers snuck spyware on Android app store
+
+
+
+Lorenzo Franceschi-Bicchierai
+
+
+
+
+
+
+
+
+
+
+ Apple fixes new security flaw used in ‘extremely sophisticated attack’
+
+
+
+Lorenzo Franceschi-Bicchierai
+
+
+
+
+
+
+
+
+
+
+ DOGE axes CISA ‘red team’ staffers amid ongoing federal cuts
+
+
+
+Carly Page
+
+
+
+
+
+
+
+
+
+
+ OpenAI launches new tools to help businesses build AI agents
+
+
+
+Maxwell Zeff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manus, an “agentic” AI platform that launched in preview last week, is generating more hype than a Taylor Swift concert.
+The head of product at Hugging Face called Manus “the most impressive AI tool I’ve ever tried.” AI policy researcher Dean Ball described Manus as the “most sophisticated computer using AI.” The official Discord server for Manus grew to over 138,000 members in just a few days, and invite codes for Manus are reportedly selling for thousands of dollars on Chinese reseller app Xianyu.
+
+
+
+
+
+
+
+
+But it’s not clear the hype is justified.
+
+excellent https://t.co/TfeV9QZ1d0
+— jack (@jack) March 9, 2025
+
+
+Manus wasn’t developed entirely from scratch. According to reports on social media, the platform uses a combination of existing and fine-tuned AI models, including Anthropic’s Claude and Alibaba’s Qwen, to perform tasks such as drafting research reports and analyzing financial filings.
+Yet on its website, Butterfly Effect — the Chinese startup behind Manus — gives a few wild examples of what the platform supposedly can accomplish, from buying real estate to programming video games.
+In a viral video on X, Yichao “Peak” Ji, a research lead for Manus, implied that the platform was superior to agentic tools such as OpenAI’s deep research and Operator. Manus outperforms deep research on a popular benchmark for general AI assistants called GAIA, Ji claimed, which probes an AI’s ability to carry out work by browsing the web, using software, and more.
+
+
+“[Manus] isn’t just another chatbot or workflow,” Ji said in the video. “It’s a completely autonomous agent that bridges the gap between conception and execution […] We see it as the next paradigm of human-machine collaboration.”
+But some early users say that Manus is no panacea.
+Alexander Doria, the co-founder of AI startup Pleias, said in a post on X that he encountered error messages and endless loops while testing Manus. Other X users pointed out that Manus makes mistakes on factual questions and doesn’t consistently cite its work — and often misses information that’s easily found online.
+
+Deep Research finished in under 15 minutes. Unfortunately, Manus AI failed after 50 minutes at step 18/20! 😑 It was performing quite well-I was watching Manus’ output & it seemed excellent. However, running the same prompt a second time is a bit frustrating as it takes too long! https://t.co/bGtmOI65CP
+— Derya Unutmaz, MD (@DeryaTR_) March 8, 2025
+
+ 
+
+
+
+
+
+
+
+
+My own experience with Manus hasn’t been incredibly positive.
+I asked the platform to handle what seemed to me like a pretty straightforward request: order a fried chicken sandwich from a top-rated fast food joint in my delivery range. After about 10 minutes, Manus crashed. On the second attempt, it found a menu item that met my criteria, but Manus couldn’t complete the ordering process — or provide a checkout link, even.
+Trying to order fried chicken sandwiches with Manus is a frustrating experience.Image Credits:Manus
+Manus similarly whiffed when I asked it to book a flight from NYC to Japan. Given instructions that I thought didn’t leave much room for ambiguity (e.g. “look for a business-class flight, prioritizing price and flexible dates”), the best Manus could do was serve up links to fares across several airline websites and airfare search engines like Kayak, some of which were broken.
+Manus can’t book flights to Tokyo for you just yet.Image Credits:Manus
+Hoping the next few tasks might be the charm, I told Manus to reserve a table for one at a restaurant within walking distance. It failed after a few minutes. Then I asked the platform to build a Naruto-inspired fighting game. It errored out half an hour in, which is when I decided to throw in the towel.
+
+Honest opinion after trying Manus AI for the last 3 days, here’s the good and the bad. 
+Good: – The research it does on the internet and the reports it generates are incredible. – Its ability to run scripts behind the scenes to execute tasks is impressive. – The plans it…
+— AshutoshShrivastava (@ai_for_success) March 9, 2025
+
+ 
+A spokesperson for Manus sent TechCrunch the following statement via DM: 
+“As a small team, our focus is to keep improving Manus and make AI agents that actually help users solve problems […] The primary goal of the current closed beta is to stress-test various parts of the system and identify issues. We deeply appreciate the valuable insights shared by everyone.”
+So if Manus is falling short of its technical promises, why did it blow up? A few factors contributed, such as the exclusivity created by a scarcity of invites.
+
+
+
+
+
+
+
+
+Chinese media was quick to tout Manus as an AI breakthrough; publication QQ News called it “the pride of domestic products.” Meanwhile, AI influencers on social media spread misinformation about Manus’ capabilities. A widely shared video showed a desktop program, ostensibly Manus, taking action across multiple smartphone apps. Ji confirmed that the video wasn’t, in fact, a demo of Manus.
+Other influential AI accounts on X sought to draw comparisons between Manus and Chinese AI company DeepSeek — comparisons not necessarily rooted in fact. Butterfly Effect didn’t develop models in-house, unlike DeepSeek. And while DeepSeek made many of its technologies openly available, Butterfly Effect hasn’t — at least not yet.
+To be fair to Butterfly Effect, Manus is in early access. The company claims it’s working to scale computing capacity and fix issues as they’re reported. But as the platform currently exists, Manus appears to be a case of hype running ahead of technological innovation.
+Updated 6:02 p.m. Pacific: Added a statement from a Manus spokesperson and corrected a misidentification of the company behind Manus.
+
+
+
+
+Mar 10, 2025 - [World](https://www.axios.com/world)
+
+New Chinese AI agent draws DeepSeek comparison
+==============================================
+
+![Image 1](https://www.axios.com/_next/image?url=https%3A%2F%2Fimages.axios.com%2Fn6wOkDPrXyQGkQw9Wpy0xgM7YdQ%3D%2F0x0%3A328x328%2F52x0%2F2020%2F05%2F01%2F1588371270782.jpg&w=128&q=75)
+
+*   [Ina Fried](https://www.axios.com/authors/ina)
+
+*   facebook (opens in new window)
+    
+*   twitter (opens in new window)
+    
+*   linkedin (opens in new window)
+    
+*   email (opens in new window)
+    
+
+![Image 2: Illustration of a tiny robot breaking out a chat box. ](https://images.axios.com/BW6vGCJqfd5_V0AMDalAwq-tp2c=/0x0:1920x1080/1920x1080/2025/03/10/1741574141259.jpg?w=3840)
+
+Illustration: Aïda Amer/Axios
+
+Just days after its announcement, a new AI agent named Manus is winning expert acclaim while stoking concern over [another AI advance](https://www.axios.com/2025/01/17/deepseek-china-ai-model) rooted in Chinese research and development.
+
+**Driving the news:** [Manus AI](https://manus.im/), named after the Latin word for hand, is billed as "a general AI agent that turns your thoughts into actions."
+
+*   In [a video](https://www.youtube.com/watch?v=K27diMbCsuw) posted late last week, Manus' creator describes it more than "just another chatbot or workflow. ... It's a completely autonomous agent."
+*   "We see it as the next paradigm of human-machine collaboration and potentially a glimpse into AGI," Manus AI chief scientist Yichao "Peak" Ji says in the video.
+
+**Ji's demo shows Manus** handling three separate tasks, sorting through resumes, identifying correlations in various stocks and searching through New York real estate — rating nearby schools and assessing how much the user can realistically afford.
+
+*   Manus does its work in the cloud, he says, which allows users to shut their laptop while the AI is working — but also raises concerns about data security and privacy.
+
+**Why it matters:** As [with DeepSeek,](https://www.axios.com/2025/01/27/deepseek-ai-model-china-openai-rival) the advent of Manus is alarming some U.S. observers who worry that China is catching up in what is often cast as a race for AI supremacy.
+
+**Yes, but:** For now, Manus is in invitation-only private testing.
+
+**What they're saying:** Manus has sparked a flurry of online discussion, with enthusiasm for its capabilities, critiques of its limitations, and warnings about its implications for privacy and security.
+
+*   "It looks like Manus AI presents itself as a Chinese company (with its team based in China) while maintaining a legal entity in Singapore," AI and privacy expert Luiza Jarovsky writes in a [newsletter](https://www.luizasnewsletter.com/p/manus-ai-why-everyone-should-worry).
+*   "From a data protection perspective, the key questions are: Where are its servers located? Is there any corporate affiliation to China? Are there data transfers to China?"
+
+**The other side:** Skeptics are already questioning whether Manus can live up to the claims being made for it.
+
+*   Some early testers, like [TechCrunch's Kyle Wiggers](https://techcrunch.com/2025/03/09/manus-probably-isnt-chinas-second-deepseek-moment/), found its performance on various tasks disappointing.
+
+**The big picture:** Agents with various levels of autonomy have been widely seen as the [next big thing in AI](https://www.axios.com/2024/02/26/generative-ai-next-act-autonomous-agents) and were already an [industry buzzword](https://www.axios.com/2024/09/13/tech-industry-new-ai-models-reasoning) long before Manus' arrival.
+
+**Between the lines:** Manus arrives at a moment of growing concern over dangers autonomous AI agents might pose.
+
+*   In a [recent paper](https://arxiv.org/pdf/2502.02649), four researchers at Hugging Face make a forceful argument that "fully autonomous AI agents should not be developed."
+*   "As history demonstrates, even well-engineered autonomous systems can make catastrophic errors from trivial causes," the authors write. "While increased autonomy can offer genuine benefits in specific contexts, human judgment and contextual understanding remain essential, particularly for high-stakes decisions."
+
+*   facebook (opens in new window)
+    
+*   twitter (opens in new window)
+    
+*   linkedin (opens in new window)
+    
+*   email (opens in new window)
+    
+
+##### Go deeper
+
+![Image 3](https://www.axios.com/_next/image?url=https%3A%2F%2Fimages.axios.com%2FRB4Zsb1_gDgV8ttZakptMCYeBSc%3D%2F0x0%3A328x328%2F52x0%2F2020%2F05%2F01%2F1588371994612.jpg&w=128&q=75)
+
+*   [Scott Rosenberg](https://www.axios.com/authors/scottrosenberg)
+
+25 mins ago - [Technology](https://www.axios.com/technology)
+
+[AI's creative block](https://www.axios.com/2025/03/13/openai-chatgpt-creative-writing)
+---------------------------------------------------------------------------------------
+
+[Animated illustration of a robot arm holding a pencil, and drawing a stick figure version of The Vitruvian Man before crossing it out.](https://www.axios.com/2025/03/13/openai-chatgpt-creative-writing)![Image 4: Animated illustration of a robot arm holding a pencil, and drawing a stick figure version of The Vitruvian Man before crossing it out.](https://images.axios.com/kkx_iUSzYCpkSMplwmxjqPx4z3w=/0x0:1280x720/1920x1080/filters:no_upscale()/2025/03/12/1741823865941.gif?w=3840)
+
+Illustration: Brendan Lynch/Axios
+
+Tech evangelists predict the [arrival of "superintelligence"](https://www.axios.com/2025/02/20/ai-agi-timeline-promises-openai-anthropic-deepmind) any year now, but others doubt AI will ever produce its own Leonardos and Einsteins.
+
+**Driving the news:** In a post on X Tuesday, OpenAI CEO Sam Altman [touted](https://x.com/sama/status/1899535387435086115) the company's development of "a new model that is good at creative writing" and showed off its work — a thousand-word "metafictional" composition on "AI and grief."
+
+[Go deeper (2 min. read)](https://www.axios.com/2025/03/13/openai-chatgpt-creative-writing)
+
+*   facebook (opens in new window)
+    
+*   twitter (opens in new window)
+    
+*   linkedin (opens in new window)
+    
+*   email (opens in new window)
+    
+
+![Image 5](https://www.axios.com/_next/image?url=https%3A%2F%2Fimages.axios.com%2F352Ca8AaR0oadg-_ZxlIg9smQtc%3D%2F52x0%2Fsmart%2F2023%2F09%2F25%2F1695666953650.jpg&w=128&q=75)
+
+*   [Rebecca Falconer](https://www.axios.com/authors/rfalconer)
+
+3 hours ago - [Business](https://www.axios.com/business)
+
+[Ex-Philippine president in ICC custody on crimes against humanity charges](https://www.axios.com/2025/03/13/rodrigo-duterte-philippine-arrest-icc-hague-drugs-war)
+--------------------------------------------------------------------------------------------------------------------------------
+
+[Former Philippine President Rodrigo Duterte gives a speech during a campaign rally at Southorn Stadium on March 09, 2025 in Hong Kong, China.](https://www.axios.com/2025/03/13/rodrigo-duterte-philippine-arrest-icc-hague-drugs-war) ![Image 6: Former Philippine President Rodrigo Duterte gives a speech during a campaign rally at Southorn Stadium on March 09, 2025 in Hong Kong, China. ](https://images.axios.com/U2c4M0sUzAQl-9vmjqKQWQuOP3g=/0x102:4000x2352/1920x1080/2025/03/13/1741840979529.jpg?w=3840)
+
+Former Philippine President Rodrigo Duterte during a rally in Hong Kong, China, last week. Photo: Anthony Kwan/Getty Images
+
+Former Philippine President [Rodrigo Duterte](https://www.axios.com/2025/03/11/philippines-icc-rodrigo-duterte-arrested-drugs-war) is now in the custody of the International Criminal Court following his arrest in Manila in connection with his deadly [war on drugs](https://www.axios.com/timeline-rodrigo-dutertes-war-on-drugs-1519224206-d18fd3d0-3af1-4a9e-910c-a4e367e6dfed.html) during his presidency, the ICC confirmed Wednesday.
+
+**The big picture:** The ICC Office of the Prosecutor alleged in a [statement](https://www.icc-cpi.int/news/statement-icc-office-prosecutor-arrest-former-philippine-president-rodrigo-roa-duterte) "there are reasonable grounds to believe that Mr Duterte bears criminal responsibility for the crime against humanity of murder" for the drugs crackdown.
+
+[Go deeper (1 min. read)](https://www.axios.com/2025/03/13/rodrigo-duterte-philippine-arrest-icc-hague-drugs-war)
+
+*   facebook (opens in new window)
+    
+*   twitter (opens in new window)
+    
+*   linkedin (opens in new window)
+    
+*   email (opens in new window)
+    
+
+![Image 7](https://www.axios.com/_next/image?url=https%3A%2F%2Fimages.axios.com%2F352Ca8AaR0oadg-_ZxlIg9smQtc%3D%2F52x0%2Fsmart%2F2023%2F09%2F25%2F1695666953650.jpg&w=128&q=75)
+
+*   [Rebecca Falconer](https://www.axios.com/authors/rfalconer)
+
+4 hours ago - [Politics & Policy](https://www.axios.com/politics-policy)
+
+[Former Texas megachurch pastor indicted on child sexual abuse charges](https://www.axios.com/2025/03/13/texas-megachurch-robert-morris-indicted-sexual-abuse)
+--------------------------------------------------------------------------------------------------------------------------------
+
+[People gather outside Gateway Church in protest of child sexual abuse in the church following allegations against Robert Morris, on Saturday, June 22, 2024, in Southlake, Texas.](https://www.axios.com/2025/03/13/texas-megachurch-robert-morris-indicted-sexual-abuse) ![Image 8: People gather outside Gateway Church in protest of child sexual abuse in the church following allegations against Robert Morris, on Saturday, June 22, 2024, in Southlake, Texas. ](https://images.axios.com/2fw6evavYTR7vLsq1d6TgDopUOM=/0x244:3000x1931/1920x1080/2025/03/13/1741835849308.jpg?w=3840)
+
+People gather outside Gateway Church in protest of child sexual abuse in the church following allegations against Robert Morris in June in Southlake, Texas. Photo: Chris Torres/Fort Worth Star-Telegram/Tribune News Service via Getty Images
+
+A Texas megachurch founder and former spiritual adviser to President [Trump](https://www.axios.com/politics-policy/donald-trump) was indicted in Oklahoma Wednesday for alleged child sexual abuse crimes dating back to the 1980s.
+
+**The big picture:** Robert Preston Morris, 63, who founded the Gateway Church in the Dallas suburb of Southlake, faces five counts of lewd or indecent acts with a child, according to the [indictment](https://oklahoma.gov/content/dam/ok/en/oag/news-documents/2025/march/GJ-2023-419%20Indictment%20Robert%20Morris_Redacted.pdf).
+
+[Go deeper (1 min. read)](https://www.axios.com/2025/03/13/texas-megachurch-robert-morris-indicted-sexual-abuse)
+
+*   facebook (opens in new window)
+    
+*   twitter (opens in new window)
+    
+*   linkedin (opens in new window)
+    
+*   email (opens in new window)
+
+

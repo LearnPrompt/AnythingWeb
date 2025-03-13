@@ -1,0 +1,226 @@
+# 视频
+<iframe src="//player.bilibili.com/player.html?isOutside=true&bvid=BV1n3RKYwEmf&cid=28724625616&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+# 网页内容
+
+Topics
+
+[agent](https://techcrunch.com/tag/agent/), [AI](https://techcrunch.com/category/artificial-intelligence/), [Apps](https://techcrunch.com/category/apps/), [China](https://techcrunch.com/region/asia/china/), [deepseek](https://techcrunch.com/tag/deepseek/), [manus](https://techcrunch.com/tag/manus/)
+
+[](https://techcrunch.com/2025/03/09/manus-probably-isnt-chinas-second-deepseek-moment/#comments)[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftechcrunch.com%2F2025%2F03%2F09%2Fmanus-probably-isnt-chinas-second-deepseek-moment%2F)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Ftechcrunch.com%2F2025%2F03%2F09%2Fmanus-probably-isnt-chinas-second-deepseek-moment%2F&text=Manus+probably+isn%E2%80%99t+China%E2%80%99s+second+%E2%80%98DeepSeek+moment%E2%80%99&via=techcrunch)[](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftechcrunch.com%2F2025%2F03%2F09%2Fmanus-probably-isnt-chinas-second-deepseek-moment%2F&title=Manus+probably+isn%E2%80%99t+China%E2%80%99s+second+%E2%80%98DeepSeek+moment%E2%80%99&summary=Manus%2C+an+%E2%80%9Cagentic%E2%80%9D+AI+platform+that+launched+in+preview+last+week%2C+is+generating+more+hype+than+a+Taylor+Swift+concert.+The+head+of+product+at+Hugging+Face+called+Manus+%E2%80%9Cthe+most+impressive+AI+tool+I%E2%80%99ve+ever+tried.%E2%80%9D+AI+policy+researcher+Dean+Ball+described+Manus+as+the+%E2%80%9Cmost+sophisticated+computer+using+AI.%E2%80%9D+The+official+Discord+server+%5B%E2%80%A6%5D&mini=1&source=TechCrunch)[](https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2025%2F03%2F09%2Fmanus-probably-isnt-chinas-second-deepseek-moment%2F&title=Manus+probably+isn%E2%80%99t+China%E2%80%99s+second+%E2%80%98DeepSeek+moment%E2%80%99)[](mailto:?subject=Manus+probably+isn%E2%80%99t+China%E2%80%99s+second+%E2%80%98DeepSeek+moment%E2%80%99&body=Article%3A+https%3A%2F%2Ftechcrunch.com%2F2025%2F03%2F09%2Fmanus-probably-isnt-chinas-second-deepseek-moment%2F)[](https://techcrunch.com/2025/03/09/manus-probably-isnt-chinas-second-deepseek-moment/)
+
+![Image 1: Kyle Wiggers](https://techcrunch.com/wp-content/uploads/2022/03/Kyle-Wiggers.jpg?w=150)
+
+Kyle Wiggers
+
+Senior Reporter, Enterprise
+
+[](https://twitter.com/Kyle_L_Wiggers)[](https://bsky.app/profile/kylelwiggers.bsky.social)[](https://techhub.social/@kylelwiggers)[](https://www.linkedin.com/in/kyle-lee-wiggers/)
+
+Kyle Wiggers is a senior reporter at TechCrunch with a special interest in artificial intelligence. His writing has appeared in VentureBeat and Digital Trends, as well as a range of gadget blogs including Android Police, Android Authority, Droid-Life, and XDA-Developers. He lives in Brooklyn with his partner, a piano educator, and dabbles in piano himself. occasionally — if mostly unsuccessfully.
+
+[View Bio](https://techcrunch.com/author/kyle-wiggers/)
+
+Most Popular
+------------
+
+*   ### [Elon Musk says DOGE involvement is making it harder to run his businesses](https://techcrunch.com/2025/03/10/elon-musk-says-doge-involvement-is-making-it-harder-to-run-his-businesses/)
+    
+    *   [Kyle Wiggers](https://techcrunch.com/author/kyle-wiggers/)
+    
+*   ### [Eric Schmidt joins Relativity Space as CEO](https://techcrunch.com/2025/03/10/eric-schmidt-joins-relativity-space-as-ceo/)
+    
+    *   [Maxwell Zeff](https://techcrunch.com/author/maxwell-zeff/)
+    
+*   ### [In another chess move with Microsoft, OpenAI is pouring $12B into CoreWeave](https://techcrunch.com/2025/03/10/in-another-chess-move-with-microsoft-openai-is-pouring-12b-into-coreweave/)
+    
+    *   [Julie Bort](https://techcrunch.com/author/julie-bort/)
+    
+*   ### [Elon Musk says X is down due to cyberattacks](https://techcrunch.com/2025/03/10/elon-musk-says-x-is-down-due-to-cyberattacks/)
+    
+    *   [Amanda Silberling](https://techcrunch.com/author/amanda-silberling/)
+    *   [Maxwell Zeff](https://techcrunch.com/author/maxwell-zeff/)
+    
+*   ### [At SXSW, Bluesky CEO Jay Graber pokes fun at Mark Zuckerberg with Latin phrase T-shirt](https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/)
+    
+    *   [Amanda Silberling](https://techcrunch.com/author/amanda-silberling/)
+    
+*   ### [Neom is reportedly turning into a financial disaster, except for McKinsey & Co.](https://techcrunch.com/2025/03/09/neom-is-reportedly-turning-into-a-financial-disaster-except-for-mckinsey-co/)
+    
+    *   [Connie Loizos](https://techcrunch.com/author/connie-loizos/)
+    
+*   ### [Manus probably isn’t China’s second ‘DeepSeek moment’](https://techcrunch.com/2025/03/09/manus-probably-isnt-chinas-second-deepseek-moment/)
+    
+    *   [Kyle Wiggers](https://techcrunch.com/author/kyle-wiggers/)
+    
+
+Manus, an “agentic” AI platform that launched in preview last week, is generating more hype than a Taylor Swift concert.
+
+The head of product at Hugging Face [called Manus](https://x.com/victormustar/status/1898505307896131708?t=_Ijpb4jr9Nnt56_5zrGwiw&s=19) “the most impressive AI tool I’ve ever tried.” AI policy researcher Dean Ball [described](https://x.com/victormustar/status/1898505307896131708?t=_Ijpb4jr9Nnt56_5zrGwiw&s=19) Manus as the “most sophisticated computer using AI.” The [official Discord server](https://discord.com/invite/gjuXBWaU) for Manus grew to over 138,000 members in just a few days, and invite codes for Manus are [reportedly](https://x.com/theaidb/status/1898354095448031504?t=-AAy7v67Mgd0f2dk20pg2w&s=19) selling for thousands of dollars on Chinese reseller app Xianyu.
+
+But it’s not clear the hype is justified.
+
+> excellent [https://t.co/TfeV9QZ1d0](https://t.co/TfeV9QZ1d0)
+> 
+> — jack (@jack) [March 9, 2025](https://twitter.com/jack/status/1898713208254280163?ref_src=twsrc%5Etfw)
+
+Manus wasn’t developed entirely from scratch. [According to reports](https://x.com/Dorialexander/status/1898719861284454718) on social media, the platform uses a combination of existing and fine-tuned AI models, including Anthropic’s Claude and Alibaba’s Qwen, to perform tasks such as drafting research reports and analyzing financial filings.
+
+Yet on its website, Butterfly Effect — the Chinese startup behind Manus — gives a few wild examples of what the platform supposedly can accomplish, [from buying real estate to programming video games](https://manus.im/usecases).
+
+In a [viral video](https://x.com/ManusAI_HQ/status/1897294098945728752) on X, Yichao “Peak” Ji, a research lead for Manus, implied that the platform was superior to agentic tools such as OpenAI’s [deep research](https://techcrunch.com/2025/02/25/openai-rolls-out-deep-research-to-paying-chatgpt-users/) and [Operator](https://techcrunch.com/2025/02/21/openai-rolls-out-its-ai-agent-operator-in-several-countries/). Manus outperforms deep research on a popular benchmark for general AI assistants called GAIA, Ji claimed, which probes an AI’s ability to carry out work by browsing the web, using software, and more.
+
+“\[Manus\] isn’t just another chatbot or workflow,” Ji said in the video. “It’s a completely autonomous agent that bridges the gap between conception and execution \[…\] We see it as the next paradigm of human-machine collaboration.”
+
+But some early users say that Manus is no panacea.
+
+Alexander Doria, the co-founder of AI startup Pleias, [said in a post on X](https://x.com/Dorialexander/status/1898720767019204959?t=DYlIopb96uZQAg0rYmi8mA&s=19) that he encountered error messages and endless loops while testing Manus. Other X users [pointed out that Manus makes mistakes on factual questions](https://x.com/teortaxesTex/status/1898712333544812626?t=BJtCEWAcSFnqJZZvSSjb9w&s=19) and [doesn’t consistently cite its work](https://x.com/DeryaTR_/status/1898477243401191631?t=54b_ivAGbzkwo6JBvB5nwg&s=19) — and [often misses information that’s easily found online](https://x.com/TheXeophon/status/1898737178273829220?t=b1BjATxdChVpa9W0GNkGEg&s=19).
+
+> Deep Research finished in under 15 minutes. Unfortunately, Manus AI failed after 50 minutes at step 18/20! 😑 It was performing quite well-I was watching Manus’ output & it seemed excellent. However, running the same prompt a second time is a bit frustrating as it takes too long! [https://t.co/bGtmOI65CP](https://t.co/bGtmOI65CP)
+> 
+> — Derya Unutmaz, MD (@DeryaTR\_) [March 8, 2025](https://twitter.com/DeryaTR_/status/1898490210809176337?ref_src=twsrc%5Etfw)
+
+My own experience with Manus hasn’t been incredibly positive.
+
+I asked the platform to handle what seemed to me like a pretty straightforward request: order a fried chicken sandwich from a top-rated fast food joint in my delivery range. After about 10 minutes, Manus crashed. On the second attempt, it found a menu item that met my criteria, but Manus couldn’t complete the ordering process — or provide a checkout link, even.
+
+![Image 2: Manus](https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-09-at-1.02.21PM.png?w=680)
+
+Trying to order fried chicken sandwiches with Manus is a frustrating experience.**Image Credits:**Manus
+
+Manus similarly whiffed when I asked it to book a flight from NYC to Japan. Given instructions that I thought didn’t leave much room for ambiguity (e.g. “look for a business-class flight, prioritizing price and flexible dates”), the best Manus could do was serve up links to fares across several airline websites and airfare search engines like Kayak, some of which were broken.
+
+![Image 3: Manus](https://techcrunch.com/wp-content/uploads/2025/03/Screenshot-2025-03-09-at-1.41.07PM.png?w=680)
+
+Manus can’t book flights to Tokyo for you just yet.**Image Credits:**Manus
+
+Hoping the next few tasks might be the charm, I told Manus to reserve a table for one at a restaurant within walking distance. It failed after a few minutes. Then I asked the platform to build a Naruto-inspired fighting game. It errored out half an hour in, which is when I decided to throw in the towel.
+
+> Honest opinion after trying Manus AI for the last 3 days, here’s the good and the bad.
+> 
+> Good:  
+> – The research it does on the internet and the reports it generates are incredible.  
+> – Its ability to run scripts behind the scenes to execute tasks is impressive.  
+> – The plans it…
+> 
+> — AshutoshShrivastava (@ai\_for\_success) [March 9, 2025](https://twitter.com/ai_for_success/status/1898790353291121082?ref_src=twsrc%5Etfw)
+
+A spokesperson for Manus sent TechCrunch the following statement via DM:
+
+“As a small team, our focus is to keep improving Manus and make AI agents that actually help users solve problems \[…\] The primary goal of the current closed beta is to stress-test various parts of the system and identify issues. We deeply appreciate the valuable insights shared by everyone.”
+
+So if Manus is falling short of its technical promises, why did it blow up? A few factors contributed, such as the exclusivity created by a [scarcity of invites](https://www.scmp.com/tech/big-tech/article/3301547/was-manus-another-deepseek-moment-chinese-ai-agent-faces-doubts-after-rapid-rise-fame).
+
+Chinese media was quick to tout Manus as an AI breakthrough; [publication QQ News called it](https://news.qq.com/rain/a/20250308A05UNR00?uid%5B0%5D=2103349820&uid%5B1%5D=2103349820&suid=&media_id=) “the pride of domestic products.” Meanwhile, AI influencers on social media spread misinformation about Manus’ capabilities. A [widely shared video](https://x.com/heyBarsee/status/1898027732899962887) showed a desktop program, ostensibly Manus, taking action across multiple smartphone apps. [Ji confirmed](https://x.com/peakji/status/1898225941954142430) that the video wasn’t, in fact, a demo of Manus.
+
+Other [influential](https://x.com/rowancheung/status/1898093008601395380) [AI](https://x.com/johnrushx/status/1898569435226738982) [accounts](https://x.com/DeryaTR_/status/1898574779289894991) on X sought to draw comparisons between Manus and Chinese AI company [DeepSeek](https://x.com/rowancheung/status/1898093008601395380) — comparisons not necessarily rooted in fact. Butterfly Effect didn’t develop models in-house, unlike DeepSeek. And while DeepSeek made many of its technologies openly available, Butterfly Effect hasn’t — [at least not yet](https://www.reddit.com/r/singularity/comments/1j60vz7/chinese_company_manus_introduces_general_ai_agent/).
+
+To be fair to Butterfly Effect, Manus is in early access. The company claims it’s working to scale computing capacity and fix issues as they’re reported. But as the platform currently exists, Manus appears to be a case of hype running ahead of technological innovation.
+
+_Updated 6:02 p.m. Pacific: Added a statement from a Manus spokesperson and corrected a misidentification of the company behind Manus._
+
+### Newsletters
+
+[See More](https://techcrunch.com/newsletters/)
+
+Subscribe for the industry’s biggest tech news
+
+##### TechCrunch Daily News
+
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+
+Add TechCrunch Daily News to your subscription choices
+
+##### TechCrunch AI
+
+TechCrunch's AI experts cover the latest news in the fast-moving field.
+
+Add TechCrunch AI to your subscription choices
+
+##### TechCrunch Space
+
+Every Monday, gets you up to speed on the latest advances in aerospace.
+
+Add TechCrunch Space to your subscription choices
+
+##### Startups Weekly
+
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+
+Add Startups Weekly to your subscription choices
+
+No newsletters selected.
+
+Subscribe
+
+By submitting your email, you agree to our [Terms](https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html) and [Privacy Notice](https://legal.yahoo.com/us/en/yahoo/privacy/index.html).
+
+Related
+-------
+
+*   ![Image 4: OpenAI logo with spiraling pastel colors (Image Credits: Bryce Durbin / TechCrunch)](https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-teal.jpg?w=668)
+    
+    [AI](https://techcrunch.com/category/artificial-intelligence/)
+    
+    ### [OpenAI launches new tools to help businesses build AI agents](https://techcrunch.com/2025/03/11/openai-launches-new-tools-to-help-businesses-build-ai-agents/)
+    
+    *   [Maxwell Zeff](https://techcrunch.com/author/maxwell-zeff/)
+    
+    53 minutes ago
+    
+*   ![Image 5](https://techcrunch.com/wp-content/uploads/2025/03/mark-cuban-sxsw.jpg?w=668)
+    
+    [Startups](https://techcrunch.com/category/startups/)
+    
+    ### [Mark Cuban says AI is ‘never the answer,’ it’s a ‘tool’](https://techcrunch.com/2025/03/11/mark-cuban-says-ai-is-never-the-answer-its-a-tool/)
+    
+    *   [Sarah Perez](https://techcrunch.com/author/sarah-perez/)
+    
+    58 minutes ago
+    
+*   ![Image 6: Hugging Face logo](https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?w=668)
+    
+    [AI](https://techcrunch.com/category/artificial-intelligence/)
+    
+    ### [Hugging Face expands its LeRobot platform with training data for self-driving machines](https://techcrunch.com/2025/03/11/hugging-face-expands-its-lerobot-platform-with-training-data-for-self-driving-machines/)
+    
+    *   [Kyle Wiggers](https://techcrunch.com/author/kyle-wiggers/)
+    
+    1 hour ago
+    
+
+Latest in Apps
+--------------
+
+[See More](https://techcrunch.com/category/apps/)
+
+*   ![Image 7: OpenAI logo with spiraling pastel colors (Image Credits: Bryce Durbin / TechCrunch)](https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-teal.jpg?w=668)
+    
+    [AI](https://techcrunch.com/category/artificial-intelligence/)
+    
+    ### [OpenAI launches new tools to help businesses build AI agents](https://techcrunch.com/2025/03/11/openai-launches-new-tools-to-help-businesses-build-ai-agents/)
+    
+    *   [Maxwell Zeff](https://techcrunch.com/author/maxwell-zeff/)
+    
+    53 minutes ago
+    
+*   ![Image 8: TikTok logo on a building](https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248389972.jpg?w=562)
+    
+    [Apps](https://techcrunch.com/category/apps/)
+    
+    ### [TikTok now lets parents see their teen’s follower/following list, block access during certain hours](https://techcrunch.com/2025/03/11/tiktok-now-lets-parents-see-their-teens-follower-following-list-block-access-during-certain-hours/)
+    
+    *   [Aisha Malik](https://techcrunch.com/author/aisha-malik/)
+    
+    3 hours ago
+    
+*   ![Image 9: Bluesky logo](https://techcrunch.com/wp-content/uploads/2025/01/bluesky-GettyImages-2185142051.jpg?w=563)
+    
+    [Apps](https://techcrunch.com/category/apps/)
+    
+    ### [Bluesky now lets users upload videos that are up to 3 minutes long](https://techcrunch.com/2025/03/10/bluesky-now-lets-users-upload-videos-that-are-up-to-3-minutes-long/)
+    
+    *   [Aisha Malik](https://techcrunch.com/author/aisha-malik/)
+    
+    21 hours ago
+
